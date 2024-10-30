@@ -16,14 +16,14 @@
 
 |      Asignaturas      |
 |-------------------|
-+ Lenguajes de marcas y sistemas de gestión de información
-+ Sistemas informáticos
-+ Bases de Datos
-+ Programación
-+ Entornos de desarrollo
-+ Itinerario personal para la empleabilidad I DAM
-+ Digitalización Aplicada al Sistema Productivo DAM
-+ Inglés Profesional
++ Lenguajes de marcas y sistemas de gestión de información 🎫
++ Sistemas informáticos 👩🏻‍💻
++ Bases de Datos 📖
++ Programación 💻
++ Entornos de desarrollo 🎨
++ Itinerario personal para la empleabilidad I DAM 🏢
++ Digitalización Aplicada al Sistema Productivo DAM 💾
++ Inglés Profesional 💡
 
 ---
 
