@@ -1,6 +1,6 @@
 # Hola, me llamo Ana y os doy la bienvenida a mi perfil
 
-![Banner](C:\Users\Usuario\Desktop\grado superior\primero\lenguaje de marcas\photo_2024-10-18_02-56-29.jpg)
+![Banner](C:photo_2024-10-18_02-56-29.jpg)
 
 
 ---
