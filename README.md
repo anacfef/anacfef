@@ -1,6 +1,6 @@
 # Hola, me llamo Ana y os doy la bienvenida a mi perfil
 
-![photo_2024-10-30_16-17-30](https://github.com/user-attachments/assets/51aab940-8f88-45ad-8954-2f1562fe3937)
+![photo_2024-10-30_16-17-30](https://pin.it/50AQHOzsQ)
 
 
 ---
