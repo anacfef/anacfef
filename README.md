@@ -1,6 +1,6 @@
 # Hola, me llamo Ana y os doy la bienvenida a mi perfil
 
-![Banner]([C:\Users\Usuario\Pictures\photo_2024-10-18_02-56-29.jpg](https://github.com/anacfef/anacfef/blob/main/photo_2024-10-18_02-56-29.jpg?raw=true))
+![Banner](https://github.com/anacfef/anacfef/blob/main/photo_2024-10-18_02-56-29.jpg?raw=true)
 
 
 ---
