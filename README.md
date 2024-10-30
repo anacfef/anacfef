@@ -37,6 +37,6 @@ Conozco algunos lenguajes y herramientas que he usado en alguna ocasión de form
 |Herramientas|
 |---------|
 + ![Discord logo](https://img.icons8.com/?size=100&id=30998&format=png&color=000000) Discord
- | ![Scractch](https://img.icons8.com/?size=100&id=qCVnKVCFAcGm&format=png&color=000000) Scratch
+![Scractch](https://img.icons8.com/?size=100&id=qCVnKVCFAcGm&format=png&color=000000) Scratch
 ![Git logo](https://img.icons8.com/?size=100&id=20906&format=png&color=000000) GIT
-! <img src="https://skillicons.dev/icons?i=sketchup&perline=14" width="100" height="100" /> Sketchup
+<img src="https://skillicons.dev/icons?i=sketchup&perline=14" width="100" height="100" /> Sketchup
