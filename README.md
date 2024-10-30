@@ -12,22 +12,27 @@
 
 ---
 
-## Asignaturas Matrículadas
+## Asignaturas Matrículadas ✨
 
 |      Asignaturas      |
 |-------------------|
-|Lenguajes de marcas y sistemas de gestión de información|
-|Sistemas informáticos|
-|Bases de Datos|
-|Programación|
-|Entornos de desarrollo|
-|Itinerario personal para la empleabilidad I DAM|
-|Digitalización Aplicada al Sistema Productivo DAM|
-|Inglés Profesional|
++ Lenguajes de marcas y sistemas de gestión de información
++ Sistemas informáticos
++ Bases de Datos
++ Programación
++ Entornos de desarrollo
++ Itinerario personal para la empleabilidad I DAM
++ Digitalización Aplicada al Sistema Productivo DAM
++ Inglés Profesional
 
+---
 
 ## Stack Tecnológico Conocido 🛠️
-|Stack Tecnológico | Nivel de conocimiento|
-|------------------|
-| ![HTML](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFRPe1P1u3KRpb1dKWk5FiXdqTRO2loN7uV9pV0KN5sId1fhQ-A69J_nMwb0swZXH5DklXm97x9-rQgUBuvBWzjrSTXxAfUDItFPEYzN70ySIi5td_TQA3EEEzzx04GW-dWSBz5mcozNc/s1600-rw/HTML5_Logo_256.png) | Nivel básico estoy aprendiendo|
 
+| Lenguaje| Herramientas| 
+|------------------|-------|
+|     ![HTML logo](https://img.icons8.com/?size=100&id=20909&format=png&color=000000 )HTML |![Git logo](https://img.icons8.com/?size=100&id=20906&format=png&color=000000) GIT
+|
+| ![CSS logo](https://img.icons8.com/?size=100&id=21278&format=png&color=000000) CSS | ![Discord logo](https://img.icons8.com/?size=100&id=30998&format=png&color=000000) Discord |
+|
+![JAVASCRIPT logo](https://img.icons8.com/?size=100&id=108784&format=png&color=000000) JavaScript | ![Scractch](https://img.icons8.com/?size=100&id=qCVnKVCFAcGm&format=png&color=000000) Scratch
