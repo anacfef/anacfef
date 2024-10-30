@@ -40,3 +40,17 @@ Conozco algunos lenguajes y herramientas que he usado en alguna ocasión de form
 ![Scractch](https://img.icons8.com/?size=100&id=qCVnKVCFAcGm&format=png&color=000000) Scratch
 ![Git logo](https://img.icons8.com/?size=100&id=20906&format=png&color=000000) GIT
 <img src="https://skillicons.dev/icons?i=sketchup&perline=14" width="100" height="100" /> Sketchup
+
+---
+
+## Stack Tecnológico del curso
+Estas son algunas de las herramientas y lenguajes que estoy aprendiendo este curso por el momento:
++ Markdown 📝
++ XML 🗂️
++ HTML 🌐
++ CSS 🌍
++ JavaScript ⚡
++ java ☕
++ python 🐍
++ Visual studio code ♾
++ Github 😸
