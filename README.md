@@ -28,9 +28,15 @@
 ---
 
 ## Stack Tecnológico Conocido 🛠️
+Conozco algunos lenguajes y herramientas que he usado en alguna ocasión de forma básica, los indico a continuación: 
+| Lenguaje|  
+|------------------|
++ ![HTML logo](https://img.icons8.com/?size=100&id=20909&format=png&color=000000 )HTML     <img src="https://cdn.icon-icons.com/icons2/628/PNG/512/sql-file-black-rounded-rectangular-interface-symbol_icon-icons.com_57633.png" width="100" height="100"> SQL 
+![CSS logo](https://img.icons8.com/?size=100&id=21278&format=png&color=000000) CSS ![JAVASCRIPT logo](https://img.icons8.com/?size=100&id=108784&format=png&color=000000) JavaScript
 
-| Lenguaje| Herramientas| 
-|------------------|-------|
-|     ![HTML logo](https://img.icons8.com/?size=100&id=20909&format=png&color=000000 )HTML |![Git logo](https://img.icons8.com/?size=100&id=20906&format=png&color=000000) GIT
-| ![CSS logo](https://img.icons8.com/?size=100&id=21278&format=png&color=000000) CSS | ![Discord logo](https://img.icons8.com/?size=100&id=30998&format=png&color=000000) Discord |
-![JAVASCRIPT logo](https://img.icons8.com/?size=100&id=108784&format=png&color=000000) JavaScript | ![Scractch](https://img.icons8.com/?size=100&id=qCVnKVCFAcGm&format=png&color=000000) Scratch
+|Herramientas|
+|---------|
++ ![Discord logo](https://img.icons8.com/?size=100&id=30998&format=png&color=000000) Discord
+ | ![Scractch](https://img.icons8.com/?size=100&id=qCVnKVCFAcGm&format=png&color=000000) Scratch
+![Git logo](https://img.icons8.com/?size=100&id=20906&format=png&color=000000) GIT
+! <img src="https://skillicons.dev/icons?i=sketchup&perline=14" width="100" height="100" /> Sketchup
