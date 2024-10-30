@@ -1,5 +1,7 @@
 # Hola, me llamo Ana y os doy la bienvenida a mi perfil
 
+! [Banner de estudiante] (https://mx.pinterest.com/pin/466052261457659820/)
+
 ---
 
 ## Estudios 📚
