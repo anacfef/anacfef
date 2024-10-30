@@ -27,5 +27,7 @@
 
 
 ## Stack Tecnológico Conocido 🛠️
+|Stack Tecnológico | Nivel de conocimiento|
+|------------------|
+| ![HTML](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFRPe1P1u3KRpb1dKWk5FiXdqTRO2loN7uV9pV0KN5sId1fhQ-A69J_nMwb0swZXH5DklXm97x9-rQgUBuvBWzjrSTXxAfUDItFPEYzN70ySIi5td_TQA3EEEzzx04GW-dWSBz5mcozNc/s1600-rw/HTML5_Logo_256.png) | Nivel básico estoy aprendiendo|
 
-( ! https://cdn.iconscout.com/icon/free/png-512/free-html-5-1-1175208.png?f=webp&w=256)
