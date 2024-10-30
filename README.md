@@ -24,3 +24,8 @@
 |Itinerario personal para la empleabilidad I DAM|
 |Digitalización Aplicada al Sistema Productivo DAM|
 |Inglés Profesional|
+
+
+## Stack Tecnológico Conocido 🛠️
+
+[HTTML Logo] (! https://cdn.iconscout.com/icon/free/png-512/free-html-5-1-1175208.png?f=webp&w=256)
