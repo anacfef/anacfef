@@ -32,7 +32,5 @@
 | Lenguaje| Herramientas| 
 |------------------|-------|
 |     ![HTML logo](https://img.icons8.com/?size=100&id=20909&format=png&color=000000 )HTML |![Git logo](https://img.icons8.com/?size=100&id=20906&format=png&color=000000) GIT
-|
 | ![CSS logo](https://img.icons8.com/?size=100&id=21278&format=png&color=000000) CSS | ![Discord logo](https://img.icons8.com/?size=100&id=30998&format=png&color=000000) Discord |
-|
 ![JAVASCRIPT logo](https://img.icons8.com/?size=100&id=108784&format=png&color=000000) JavaScript | ![Scractch](https://img.icons8.com/?size=100&id=qCVnKVCFAcGm&format=png&color=000000) Scratch
