@@ -28,4 +28,4 @@
 
 ## Stack Tecnológico Conocido 🛠️
 
-[HTTML Logo] ( https://cdn.iconscout.com/icon/free/png-512/free-html-5-1-1175208.png?f=webp&w=256)
+![HTTML Logo] ( https://cdn.iconscout.com/icon/free/png-512/free-html-5-1-1175208.png?f=webp&w=256)
