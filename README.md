@@ -47,7 +47,7 @@ Conozco algunos lenguajes y herramientas que he usado en alguna ocasión de form
 
 ---
 
-## Stack Tecnológico del curso
+## Stack Tecnológico del curso 🎮
 Estas son algunas de las herramientas y lenguajes que estoy aprendiendo este curso por el momento:
 + Markdown 📝
 + XML 🗂️
@@ -58,3 +58,13 @@ Estas son algunas de las herramientas y lenguajes que estoy aprendiendo este cur
 + python 🐍
 + Visual studio code ♾
 + Github 😸
++ MongoDB🍃
+
+---
+
+## Preferencias Tecnológicas 🧾
+📱 Desarrollo Móvil
+👾 Desarrollo de Videojuegos
+🖱Full-stack
+
+
