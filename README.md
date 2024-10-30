@@ -7,7 +7,7 @@
 
 ## Estudios 📚
 - *Nivel Educativo*: 💻 Estoy estudiando el primer curso Superior de Desarrollo de Aplicaciones Multiplataforma.
-- *Centro Educativo*: 💿 En [CIFP la Conservera de Ceutí a distancia en IES Los Albares] (https://www.ieslosalbares.es/laconservera/pagina-ejemplo/)
+- *Centro Educativo*: 💿 En [CIFP la Conservera de Ceutí a distancia en IES Los Albares](https://www.ieslosalbares.es/laconservera/pagina-ejemplo/)
 - *Otras Formaciones*: 👩🏻‍🏫 He estudiado el Grado de Educación Primaria en la Universidad de Murcia.
 
 ---
